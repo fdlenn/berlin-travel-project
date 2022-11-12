@@ -53,7 +53,7 @@ header a {
     background: white;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 960px) {
     header {
       padding: 60px 0;
     }
@@ -69,4 +69,10 @@ header a {
     header h3 {
       font-size: 12px;
     }
+
+footer {
+    color: white;
+    background-image: url("../images/ubahn-1.jpg");
+}
+
   }
